@@ -1,3 +1,5 @@
-let umaString = "Um \"texto\" "
+let umaString = "o rato roeu a roupa do rei de roma."
 
-console.log(umaString)
+//console.log(umaString.slice(31))
+console.log(umaString.slice(-5, umaString.length - 1))
+
